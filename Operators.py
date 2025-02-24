@@ -30,3 +30,4 @@ print(7 and 2 or 8 or 5 and 8)
 
 # precedence operator
 print(5+4-7+3)
+
